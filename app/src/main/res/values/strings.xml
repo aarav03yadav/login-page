@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login page</string>
+    <string name="Login_button">Login</string>
+    <string name="loginwith_button">Or Login with</string>
+    <string name="Enterpassword_button">Enter password</string>
+    <string name="emialid_button">Enter email id</string>
+    <string name="Login_Form">Login Form</string>
+</resources>
